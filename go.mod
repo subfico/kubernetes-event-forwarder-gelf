@@ -7,6 +7,7 @@ require (
 	github.com/imdario/mergo v0.3.6 // indirect
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/stretchr/testify v1.6.1
+	golang.org/x/net v0.17.0 // indirect
 	gopkg.in/Graylog2/go-gelf.v2 v2.0.0-20180326133423-4dbb9d721348
 	k8s.io/api v0.21.1
 	k8s.io/apimachinery v0.21.1
