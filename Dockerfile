@@ -1,4 +1,4 @@
-FROM golang:1.24
+FROM golang:1.24.6
 COPY . /src/
 WORKDIR /src/
 RUN go get golang.org/x/net@v0.23.0
